@@ -6,8 +6,8 @@ import "./styles/utils.css"
 export default function App() {
   return (
     <main className="hero container">
-      <h1>Hello World</h1>
-      <button className="btn">Button</button>
+      <h1>Responsive</h1>
+      <button className="btn">Blue Button</button>
     </main>
   )
 }
